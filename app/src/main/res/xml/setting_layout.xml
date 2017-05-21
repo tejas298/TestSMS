@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <PreferenceCategory android:title="UI Settings">
+        <ListPreference android:title="Choose colour"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Storage Settings">
+        <CheckBoxPreference
+            android:title="Cloud Strorage"
+            />
+        <CheckBoxPreference
+            android:title="SD card"/>
+        <CheckBoxPreference
+            android:title="Internal Storage"/>
+        <CheckBoxPreference
+            android:title="Interanal Database"
+            android:checked="true"
+            android:defaultValue="true"/>
+    </PreferenceCategory>
+</PreferenceScreen>

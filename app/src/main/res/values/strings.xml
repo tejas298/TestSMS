@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestSMS</string>
+    <string name="message_address">AM-bdjdjdjs</string>
+    <string name="message_body">jchdkjfbzhvjkdzfgkzjfh</string>
+    <string name="message_date">APRIL 20</string>
+    <string name="messages">jdkjdhskjdhskjfhskfhskjfhskhksjhfskjhfkjshf dsdksjhdjs djskjhskj dsdjksh djhsdshhdiush dsuhdiushdiushih iuhs
+        hsiufhsiuh uis iufhsiufh siuh ius
+        fidgfidfidifua fiuad ifudy iusfiudyfidy fidu yiufy diufy hshsiuh</string>
+    <string name="dusri_activity">MessageActivity</string>
+    <string name="my_app">SMS BACKUP</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="preference_file" >prefrence_key</string>
+</resources>
